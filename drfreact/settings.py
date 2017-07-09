@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #third party
     'webpack_loader',
+    'rest_framework',
+    #localapps
+    'api',
 ]
 
 STATICFILES_DIRS = [
